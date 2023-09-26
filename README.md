@@ -4,4 +4,3 @@
 
 Currently in development. Private alpha coming soon!
 
-[Learn More](https://trynetworks.github.io/)
